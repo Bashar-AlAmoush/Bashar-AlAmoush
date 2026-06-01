@@ -1,7 +1,10 @@
 <div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=20,dd0031,20232a&height=220&section=header&text=Bashar%20Al-Amoush&fontSize=40&animation=twinkling&fontColor=ffffff" alt="Animated Header Banner" />
+
 <!-- Typing Effect Animation Title -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bashar+Al-Amoush;Front-End+Web+Developer;Angular+%26+Electron+Expert;React+%26+React+Native+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=DD0031&center=true&vCenter=true&width=550&lines=Front-End+Web+Developer%20%F0%9F%92%BB;Angular+%26+Electron+Expert%20%F0%9F%92%A3;React+%26+React+Native+Dev%20%F0%9F%93%B1" alt="Typing SVG" /></a>
 
 **Based in Amman, Jordan** 📍
 
@@ -16,25 +19,30 @@ I am an engineering-focused Front-End Web Developer specializing in architecting
 
 ---
 
-### 🛠️ Technical Matrix
+### 🏆 GitHub Trophies (Dynamic Achievements)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bashar-AlAmoush&theme=onerd&row=1&column=6&margin-w=15" alt="GitHub Trophies" /></a>
+</p>
+
+---
+
+### 🛠️ Interactive Tech Stack
 
 **Core Frameworks & Runtimes**
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React_Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/angular-official.svg" alt="Angular" width="50" height="50" style="margin: 10px;" /></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/react-official.svg" alt="React" width="50" height="50" style="margin: 10px;" /></a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="50" height="50" style="margin: 10px;" /></a>
 </p>
 
-**Languages & Databases**
+**Languages & Backend Ecosystem**
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node_Js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/typescript-official.svg" alt="TypeScript" width="45" height="45" style="margin: 8px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/javascript.svg" alt="JavaScript" width="45" height="45" style="margin: 8px;" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/nodejs-original.svg" alt="Node" width="45" height="45" style="margin: 8px;" /></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/icons/skills/mongodb-original.svg" alt="MongoDB" width="45" height="45" style="margin: 8px;" /></a>
 </p>
 
-**Styling & Architecture**
 <p align="center">
   <code>HTML5</code> &bull; <code>CSS3</code> &bull; <code>Tailwind CSS</code> &bull; <code>Data Structures</code> &bull; <code>Redux</code> &bull; <code>Context API</code> &bull; <code>REST APIs</code> &bull; <code>UI/UX Design</code>
 </p>
@@ -56,21 +64,23 @@ I am an engineering-focused Front-End Web Developer specializing in architecting
 ### 🌟 Featured Systems Built
 
 **💻 Planet Donuts (POS)**
-Cross-platform desktop Point-of-Sale tool deployed via **Electron.js** featuring secure offline core functionality, localized transaction workflows, and real-time backend api synchronization layers[cite: 1].
+Cross-platform desktop Point-of-Sale tool deployed via **Electron.js** featuring secure offline core functionality, localized transaction workflows, and real-time backend API synchronization layers[cite: 1].
 
 **📊 Planet Donuts & OfferAt (CRM Dashboards)**
 Data-driven analytical dashboards featuring complex role-based access control (RBAC), real-time KPIs, interactive visualization data tables, and dynamic sorting architectures[cite: 1].
 
-**📅 1Booked (Admin Dashboard)**
-Vendor booking optimization system integrating comprehensive live scheduling components, advanced filter processing engines, and asynchronous RESTful service synchronization[cite: 1].
-
 ---
 
-### 📊 GitHub Metrics
+### 📊 Animated Analytics & Core Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bashar-AlAmoush&show_icons=true&theme=nord&include_all_commits=true" alt="Bashar's GitHub Metrics" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-AlAmoush&layout=compact&theme=nord" alt="Bashar's Language Distribution" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bashar-AlAmoush&show_icons=true&theme=radical&include_all_commits=true" alt="Bashar's GitHub Metrics" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-AlAmoush&layout=compact&theme=radical" alt="Bashar's Language Distribution" width="350" />
+</p>
+
+### 🐍 GitHub Contribution Snake Game Animation
+<p align="center">
+  <img src="https://github.com/Bashar-AlAmoush/Bashar-AlAmoush/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" onError="this.style.display='none'" />
 </p>
 
 ---
