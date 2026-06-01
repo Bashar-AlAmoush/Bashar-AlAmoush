@@ -1,67 +1,86 @@
 <div align="center">
 
-# 👨‍💻 Bashar Al-Amoush
+<!-- Typing Effect Animation Title -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bashar+Al-Amoush;Front-End+Web+Developer;Angular+%26+Electron+Expert;React+%26+React+Native+Dev" alt="Typing SVG" /></a>
 
-### **Senior Frontend Engineer & Cross-Platform Developer**
-**Specializing in Web, Desktop, and Mobile Architecture**
-
----
-
-### 🌐 About Me
-
-I design and build enterprise-grade frontend systems, specializing in robust web interfaces, seamless native desktop applications, and high-performance hybrid mobile software. Driven by a deep commitment to clean architecture, reactive design patterns, and platform optimization.
+**Based in Amman, Jordan** 📍
 
 ---
 
-### 🛠️ Core Technologies
+### 💻 About Me
 
-**Frontend & Frameworks**
+I am an engineering-focused Front-End Web Developer specializing in architecting enterprise-level client systems[cite: 1]. I bridge the gap between complex application business workflows and highly performant user experiences across web, desktop, and mobile platforms[cite: 1].
+
+<!-- Profile Visitor Counter Widget -->
+![](https://komarev.com/ghvc/?username=Bashar-AlAmoush&color=dd0031&style=flat-square&label=PROFILE+VIEWS)
+
+---
+
+### 🛠️ Technical Matrix
+
+**Core Frameworks & Runtimes**
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React_Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
 </p>
 
-**Cross-Platform Runtimes**
+**Languages & Databases**
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node_Js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Ecosystem & Architecture**
+**Styling & Architecture**
 <p align="center">
-  <code>RxJS</code> &bull; <code>NgRx</code> &bull; <code>Redux Toolkit</code> &bull; <code>Tailwind CSS</code> &bull; <code>SCSS</code> &bull; <code>Git Workflow</code>
-</p>
-
----
-
-### ⚡ Technical Expertise
-
-**Desktop Ecosystems (Angular & Electron)**
-<br>
-Architecting offline-first desktop systems utilizing multi-process communication channels. Expert in structuring high-throughput asynchronous streams with RxJS, local database replication, and native hardware peripheral integrations.
-
-**Cross-Platform Mobile (React Native)**
-<br>
-Building performance-tuned, complex view lifecycles across iOS and Android ecosystems. Focused on layout performance optimization, local caching layers, custom native hooks, and responsive UX implementation.
-
----
-
-### 📊 GitHub Profile Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bashar-AlAmoush&show_icons=true&theme=nord&include_all_commits=true" alt="Bashar's GitHub Stats" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-AlAmoush&layout=compact&theme=nord" alt="Bashar's Top Languages" width="350" />
+  <code>HTML5</code> &bull; <code>CSS3</code> &bull; <code>Tailwind CSS</code> &bull; <code>Data Structures</code> &bull; <code>Redux</code> &bull; <code>Context API</code> &bull; <code>REST APIs</code> &bull; <code>UI/UX Design</code>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🚀 Professional Experience
+
+**Front-End Developer &bull; Link Business Solutions**[cite: 1]
+*Oct 2023 – Present*[cite: 1]
+> Architecting enterprise-level systems (ERP, CRM, dashboards) using **Angular**, **TypeScript**, and **Electron.js** across Windows and macOS[cite: 1]. Integrating robust RESTful API structures, dynamic role-based routing, and responsive dashboard data visualization layers[cite: 1].
+
+**Front-End Development Intern &bull; Era Tech Jo**[cite: 1]
+*Jul 2023 – Aug 2023*[cite: 1]
+> Built component-based architecture systems via **React**, implementing state management pipelines with **Redux** and **Context API** for secure, intuitive interface systems[cite: 1].
+
+---
+
+### 🌟 Featured Systems Built
+
+**💻 Planet Donuts (POS)**
+Cross-platform desktop Point-of-Sale tool deployed via **Electron.js** featuring secure offline core functionality, localized transaction workflows, and real-time backend api synchronization layers[cite: 1].
+
+**📊 Planet Donuts & OfferAt (CRM Dashboards)**
+Data-driven analytical dashboards featuring complex role-based access control (RBAC), real-time KPIs, interactive visualization data tables, and dynamic sorting architectures[cite: 1].
+
+**📅 1Booked (Admin Dashboard)**
+Vendor booking optimization system integrating comprehensive live scheduling components, advanced filter processing engines, and asynchronous RESTful service synchronization[cite: 1].
+
+---
+
+### 📊 GitHub Metrics
 
 <p align="center">
-  <a href="https://linkedin.com/in/bashar-amoush"><b>LinkedIn</b></a> &bull; 
-  <a href="mailto:omushb@gmail.com"><b>Email Support</b></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bashar-AlAmoush&show_icons=true&theme=nord&include_all_commits=true" alt="Bashar's GitHub Metrics" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-AlAmoush&layout=compact&theme=nord" alt="Bashar's Language Distribution" width="350" />
+</p>
+
+---
+
+### 📫 Open for Collaboration
+
+<p align="center">
+  <a href="https://linkedin.com/in/bashar-amoush"><b>LinkedIn Profile</b></a> &bull; 
+  <a href="mailto:omushb@gmail.com"><b>Email Direct</b></a> &bull;
+  <a href="tel:+962772536522"><b>Call</b></a>
 </p>
 
 </div>
