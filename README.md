@@ -12,8 +12,6 @@
 ### 💻 About Me
 
 I am an engineering-focused Front-End Web Developer specializing in architecting enterprise-level client systems. I bridge the gap between complex application business workflows and highly performant user experiences across web, desktop, and mobile platforms.
-
-
 ---
 
 
@@ -63,20 +61,6 @@ Cross-platform desktop Point-of-Sale tool deployed via **Electron.js** featuring
 
 **📊 Planet Donuts & OfferAt (CRM Dashboards)**
 Data-driven analytical dashboards featuring complex role-based access control (RBAC), real-time KPIs, interactive visualization data tables, and dynamic sorting architectures.
-
----
-
-### 📊 Animated Analytics & Core Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bashar-AlAmoush&show_icons=true&theme=radical&include_all_commits=true" alt="Bashar's GitHub Metrics" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-AlAmoush&layout=compact&theme=radical" alt="Bashar's Language Distribution" width="350" />
-</p>
-
-### 🐍 GitHub Contribution Snake Game Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bashar-AlAmoush/Bashar-AlAmoush/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
 
 ---
 
