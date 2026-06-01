@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=20,dd0031,20232a&height=220&section=header&text=Bashar%20Al-Amoush&fontSize=40&animation=twinkling&fontColor=ffffff" alt="Animated Header Banner" />
+
 
 <!-- Typing Effect Animation Title -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=DD0031&center=true&vCenter=true&width=550&lines=Front-End+Web+Developer%20%F0%9F%92%BB;Angular+%26+Electron+Expert%20%F0%9F%92%A3;React+%26+React+Native+Dev%20%F0%9F%93%B1" alt="Typing SVG" /></a>
