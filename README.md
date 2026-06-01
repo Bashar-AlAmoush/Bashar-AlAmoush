@@ -13,8 +13,6 @@
 
 I am an engineering-focused Front-End Web Developer specializing in architecting enterprise-level client systems[cite: 1]. I bridge the gap between complex application business workflows and highly performant user experiences across web, desktop, and mobile platforms[cite: 1].
 
-<!-- Profile Visitor Counter Widget -->
-<img src="https://komarev.com/ghvc/?username=Bashar-AlAmoush&color=dd0031&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 ---
 
