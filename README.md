@@ -1,59 +1,67 @@
-# Hi there, I'm Bashar Al-Amoush! 👋
-### Senior Frontend Developer & Cross-Platform Mobile/Desktop Specialist
+<div align="center">
 
-I am a passionate Frontend Engineer specializing in architecting scalable web applications, robust desktop tools, and high-performance hybrid mobile experiences. I leverage modern frameworks to turn complex client-side demands into smooth, highly responsive user experiences.
+# 👨‍💻 Bashar Al-Amoush
 
----
-
-## 🚀 Core Specializations
-* 🌐 **Enterprise Web Apps:** Crafting scalable Single Page Applications (SPAs) with **Angular** and **React**.
-* 📱 **Hybrid Mobile Development:** Shipping production-ready cross-platform apps using **React Native**.
-* 💻 **Native Desktop Apps:** Packaging and optimizing web engines into desktop software via **Electron**.
-* ⚙️ **Performance & Clean Code:** Expert focus on state management, reactive streams, dynamic rendering, and bundle optimization.
+### **Senior Frontend Engineer & Cross-Platform Developer**
+**Specializing in Web, Desktop, and Mobile Architecture**
 
 ---
 
-## 🛠️ My Tech Stack
+### 🌐 About Me
 
-### Frameworks & Languages
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Cross-Platform Ecosystem
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### Deep Architecture & Ecosystem Skills
-* **Angular Ecosystem:** Reactive programming with **RxJS**, centralized state with **NgRx**, custom structural directives, optimized pipes, and modular/micro-frontend architectures.
-* **React Ecosystem:** Advanced hooks pipelines, context management, and cross-platform native modules.
-* **Styling & UI:** Tailwind CSS, SCSS, Angular Material, and custom component design languages.
-* **Tooling & Environments:** Git/GitHub workflows, Postman API testing, Figma conversion, and platform debugging.
+I design and build enterprise-grade frontend systems, specializing in robust web interfaces, seamless native desktop applications, and high-performance hybrid mobile software. Driven by a deep commitment to clean architecture, reactive design patterns, and platform optimization.
 
 ---
 
-## 📊 My GitHub Performance
+### 🛠️ Core Technologies
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bashar-AlAmoush&show_icons=true&theme=radical" alt="Bashar's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-AlAmoush&layout=compact&theme=radical" alt="Bashar's Top Languages" height="180px"/>
+**Frontend & Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+**Cross-Platform Runtimes**
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron" />
+</p>
+
+**Ecosystem & Architecture**
+<p align="center">
+  <code>RxJS</code> &bull; <code>NgRx</code> &bull; <code>Redux Toolkit</code> &bull; <code>Tailwind CSS</code> &bull; <code>SCSS</code> &bull; <code>Git Workflow</code>
 </p>
 
 ---
 
-## 🌟 Featured Projects
+### ⚡ Technical Expertise
 
-### 💻 Advanced POS & Desktop Architecture (Angular + Electron)
-* **Description:** A desktop-wrapped Point of Sale system designed with offline-first local state replication, hardware communication (peripherals/printers), and intensive data stream processing via RxJS.
-* **Key Focus:** Stream optimization, local database sync reliability, and cross-process communication.
+**Desktop Ecosystems (Angular & Electron)**
+<br>
+Architecting offline-first desktop systems utilizing multi-process communication channels. Expert in structuring high-throughput asynchronous streams with RxJS, local database replication, and native hardware peripheral integrations.
 
-### 📱 High-Performance Mobile Applications (React Native)
-* **Description:** Cross-platform native mobile clients built to maintain steady 60 FPS performance, featuring complex layout lifecycles, caching layers, and asynchronous cart/checkout workflows.
-* **Key Focus:** Memory management, fast bundle loading, and fluid animations.
+**Cross-Platform Mobile (React Native)**
+<br>
+Building performance-tuned, complex view lifecycles across iOS and Android ecosystems. Focused on layout performance optimization, local caching layers, custom native hooks, and responsive UX implementation.
 
 ---
 
-## 📫 Let's Connect!
-* 💼 Connect with me on [LinkedIn](https://linkedin.com/in/bashar-amoush)
-* 📧 Reach out via Email: `your.professional.email@example.com`
+### 📊 GitHub Profile Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bashar-AlAmoush&show_icons=true&theme=nord&include_all_commits=true" alt="Bashar's GitHub Stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-AlAmoush&layout=compact&theme=nord" alt="Bashar's Top Languages" width="350" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bashar-amoush"><b>LinkedIn</b></a> &bull; 
+  <a href="mailto:omushb@gmail.com"><b>Email Support</b></a>
+</p>
+
+</div>
