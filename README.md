@@ -11,7 +11,7 @@
 
 ### 💻 About Me
 
-I am an engineering-focused Front-End Web Developer specializing in architecting enterprise-level client systems[cite: 1]. I bridge the gap between complex application business workflows and highly performant user experiences across web, desktop, and mobile platforms[cite: 1].
+I am an engineering-focused Front-End Web Developer specializing in architecting enterprise-level client systems. I bridge the gap between complex application business workflows and highly performant user experiences across web, desktop, and mobile platforms.
 
 
 ---
@@ -38,30 +38,31 @@ I am an engineering-focused Front-End Web Developer specializing in architecting
 </p>
 
 <p align="center">
-  <code>HTML5</code> &bull; <code>CSS3</code> &bull; <code>Tailwind CSS</code> &bull; <code>Data Structures</code> &bull; <code>Redux</code> &bull; <code>Context API</code> &bull; <code>REST APIs</code> &bull; <code>UI/UX Design</code>[cite: 1]
+  <code>HTML5</code> &bull; <code>CSS3</code> &bull; <code>Tailwind CSS</code> &bull; <code>Data Structures</code> &bull; <code>Redux</code> &bull; <code>Context API</code> &bull; <code>REST APIs</code> &bull; <code>UI/UX Design</code>
 </p>
 
 ---
 
 ### 🚀 Professional Experience
 
-**Front-End Developer &bull; Link Business Solutions**[cite: 1]  
-*Oct 2023 – Present*[cite: 1]  
-> Architecting enterprise-level systems (ERP, CRM, dashboards) using **Angular**, **TypeScript**, and **Electron.js** across Windows and macOS[cite: 1]. Integrating robust RESTful API structures, dynamic role-based routing, and responsive dashboard data visualization layers[cite: 1].
+**Front-End Developer &bull; Link Business Solutions**
+*Oct 2023 – Present*
+> Architecting enterprise-level systems (ERP, CRM, dashboards) using **Angular**, **TypeScript**, and **Electron.js** across Windows and macOS.
+Integrating robust RESTful API structures, dynamic role-based routing, and responsive dashboard data visualization layers.
 
-**Front-End Development Intern &bull; Era Tech Jo**[cite: 1]  
-*Jul 2023 – Aug 2023*[cite: 1]  
-> Built component-based architecture systems via **React**, implementing state management pipelines with **Redux** and **Context API** for secure, intuitive interface systems[cite: 1].
+**Front-End Development Intern &bull; Era Tech Jo** 
+*Jul 2023 – Aug 2023*
+> Built component-based architecture systems via **React**, implementing state management pipelines with **Redux** and **Context API** for secure, intuitive interface systems.
 
 ---
 
 ### 🌟 Featured Systems Built
 
-**💻 Planet Donuts (POS)**[cite: 1]  
-Cross-platform desktop Point-of-Sale tool deployed via **Electron.js** featuring secure offline core functionality, localized transaction workflows, and real-time backend API synchronization layers[cite: 1].
+**💻 Planet Donuts (POS)**
+Cross-platform desktop Point-of-Sale tool deployed via **Electron.js** featuring secure offline core functionality, localized transaction workflows, and real-time backend API synchronization layers.
 
-**📊 Planet Donuts & OfferAt (CRM Dashboards)**[cite: 1]  
-Data-driven analytical dashboards featuring complex role-based access control (RBAC), real-time KPIs, interactive visualization data tables, and dynamic sorting architectures[cite: 1].
+**📊 Planet Donuts & OfferAt (CRM Dashboards)**
+Data-driven analytical dashboards featuring complex role-based access control (RBAC), real-time KPIs, interactive visualization data tables, and dynamic sorting architectures.
 
 ---
 
@@ -84,7 +85,7 @@ Data-driven analytical dashboards featuring complex role-based access control (R
 <p align="center">
   <a href="https://linkedin.com/in/bashar-amoush"><b>LinkedIn Profile</b></a> &bull; 
   <a href="mailto:omushb@gmail.com"><b>Email Direct</b></a> &bull;
-  <a href="tel:+962772536522"><b>Call</b></a>[cite: 1]
+  <a href="tel:+962772536522"><b>Call</b></a>
 </p>
 
 </div>
